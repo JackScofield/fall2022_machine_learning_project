@@ -1,2 +1,13 @@
 # fall2022_machine_learning_project
- fall2022 JHU CS475-675 machine learning final project
+
+
+For running, you need to create a new environment in anaconda with importing the environment.yml file.
+
+Datasets links (Datasets are too big to put in github):
+
+Stage1:
+
+Stage2:
+
+Stage3
+
