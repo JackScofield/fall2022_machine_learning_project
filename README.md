@@ -7,7 +7,7 @@ Datasets links (Datasets are too big to put in github):
 
 Stage1:
 
-Stage2:
+Stage2: https://www.kaggle.com/datasets/nipunarora8/age-gender-and-ethnicity-face-data-csv
 
-Stage3
+Stage3: https://www.kaggle.com/datasets/muhammeddalkran/masked-facerecognition
 
